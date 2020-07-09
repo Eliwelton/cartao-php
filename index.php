@@ -9,7 +9,7 @@
     <h1>Isso é apenas um teste php</h1>
     <p id="teste"></p>
     <?php
-        echo 'Isso é um trecho escritor em PHP';
+        echo 'Isso é um trecho escrito em PHP';
     ?>
     <script src="javascript/card.js"></script>
 </body>
